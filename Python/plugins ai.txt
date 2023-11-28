@@ -1,6 +1,0 @@
-coder pad - sand box
-diagram.io
-
-C# - foarte bun pentru fundamentals and programming logic
-NET. - ecosistem
-IDE - enviroment
